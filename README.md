@@ -2,5 +2,5 @@
 Experimental Presto SQL parser
 
 ```bash
-echo -n 'SELECT * FROM db' | go run main.go
+echo -n 'SELECT * FROM db' | go run cmd/presto-parse/main.go
 ```

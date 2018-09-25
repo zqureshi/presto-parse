@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/zqureshi/presto-parse/presto"
 	"os"
+
+	"github.com/zqureshi/presto-parse"
 )
 
 func main() {

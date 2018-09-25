@@ -3,7 +3,6 @@
 *.dll
 *.so
 *.dylib
-presto-parse
 
 # Test binary, build with `go test -c`
 *.test
